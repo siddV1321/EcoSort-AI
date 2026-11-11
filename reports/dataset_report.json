@@ -1,0 +1,14 @@
+{
+  "dataset_path": "C:\\Users\\GUEST123\\Downloads\\EcoSort-AI\\data\\raw",
+  "total_images": 2527,
+  "class_counts": {
+    "cardboard": 403,
+    "glass": 501,
+    "metal": 410,
+    "paper": 594,
+    "plastic": 482,
+    "trash": 137
+  },
+  "unreadable_image_count": 0,
+  "unreadable_images": []
+}

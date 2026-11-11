@@ -1,0 +1,1 @@
+The training script saves `ecosort_mobilenetv2.keras` and `class_names.json` here. These are generated after training; they are not included in the starter ZIP. The Python model is distinct from the Orange model in ecosort_ai.ows.

@@ -1,0 +1,15 @@
+{
+  "classes": [
+    "cardboard",
+    "glass",
+    "metal",
+    "paper",
+    "plastic",
+    "trash"
+  ],
+  "image_size": 160,
+  "epochs": 8,
+  "best_validation_accuracy": 0.8396039603960396,
+  "training_images": 2022,
+  "validation_images": 505
+}

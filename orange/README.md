@@ -1,0 +1,1 @@
+Open ecosort_ai.ows with Orange Data Mining. The saved workflow originally referenced a Windows path on another computer. Reopen Import Images and choose your local extracted dataset if Orange reports a missing path. The Python MobileNetV2 model is a separate experiment.
