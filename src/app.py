@@ -18,7 +18,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-MODEL_PATH = "best_model.pth"
+MODEL_PATH = "models/ecosort_mobilenetv2.pth"
 
 CLASSES = [
     "cardboard",
